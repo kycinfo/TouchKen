@@ -14,6 +14,19 @@
 		6319A14B1A7B6FA100E21FDB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6319A14A1A7B6FA100E21FDB /* Images.xcassets */; };
 		6319A14E1A7B6FA100E21FDB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6319A14C1A7B6FA100E21FDB /* LaunchScreen.xib */; };
 		6319A15A1A7B6FA100E21FDB /* TouchKenTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6319A1591A7B6FA100E21FDB /* TouchKenTests.m */; };
+		6319A1651A7B6FC300E21FDB /* Ken.m in Sources */ = {isa = PBXBuildFile; fileRef = 6319A1641A7B6FC300E21FDB /* Ken.m */; };
+		6319A1B11A7B7F5D00E21FDB /* ken1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1A51A7B7F5D00E21FDB /* ken1.png */; };
+		6319A1B21A7B7F5D00E21FDB /* ken1r.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1A61A7B7F5D00E21FDB /* ken1r.png */; };
+		6319A1B31A7B7F5D00E21FDB /* ken2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1A71A7B7F5D00E21FDB /* ken2.png */; };
+		6319A1B41A7B7F5D00E21FDB /* ken2r.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1A81A7B7F5D00E21FDB /* ken2r.png */; };
+		6319A1B51A7B7F5D00E21FDB /* ken3.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1A91A7B7F5D00E21FDB /* ken3.png */; };
+		6319A1B61A7B7F5D00E21FDB /* ken3r.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1AA1A7B7F5D00E21FDB /* ken3r.png */; };
+		6319A1B71A7B7F5D00E21FDB /* ken4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1AB1A7B7F5D00E21FDB /* ken4.png */; };
+		6319A1B81A7B7F5D00E21FDB /* ken4r.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1AC1A7B7F5D00E21FDB /* ken4r.png */; };
+		6319A1B91A7B7F5D00E21FDB /* ken5.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1AD1A7B7F5D00E21FDB /* ken5.png */; };
+		6319A1BA1A7B7F5D00E21FDB /* ken5r.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1AE1A7B7F5D00E21FDB /* ken5r.png */; };
+		6319A1BB1A7B7F5D00E21FDB /* ken6.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1AF1A7B7F5D00E21FDB /* ken6.png */; };
+		6319A1BC1A7B7F5D00E21FDB /* ken6r.png in Resources */ = {isa = PBXBuildFile; fileRef = 6319A1B01A7B7F5D00E21FDB /* ken6r.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +53,20 @@
 		6319A1531A7B6FA100E21FDB /* TouchKenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchKenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6319A1581A7B6FA100E21FDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6319A1591A7B6FA100E21FDB /* TouchKenTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchKenTests.m; sourceTree = "<group>"; };
+		6319A1631A7B6FC300E21FDB /* Ken.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ken.h; sourceTree = "<group>"; };
+		6319A1641A7B6FC300E21FDB /* Ken.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ken.m; sourceTree = "<group>"; };
+		6319A1A51A7B7F5D00E21FDB /* ken1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken1.png; sourceTree = "<group>"; };
+		6319A1A61A7B7F5D00E21FDB /* ken1r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken1r.png; sourceTree = "<group>"; };
+		6319A1A71A7B7F5D00E21FDB /* ken2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken2.png; sourceTree = "<group>"; };
+		6319A1A81A7B7F5D00E21FDB /* ken2r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken2r.png; sourceTree = "<group>"; };
+		6319A1A91A7B7F5D00E21FDB /* ken3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken3.png; sourceTree = "<group>"; };
+		6319A1AA1A7B7F5D00E21FDB /* ken3r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken3r.png; sourceTree = "<group>"; };
+		6319A1AB1A7B7F5D00E21FDB /* ken4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken4.png; sourceTree = "<group>"; };
+		6319A1AC1A7B7F5D00E21FDB /* ken4r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken4r.png; sourceTree = "<group>"; };
+		6319A1AD1A7B7F5D00E21FDB /* ken5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken5.png; sourceTree = "<group>"; };
+		6319A1AE1A7B7F5D00E21FDB /* ken5r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken5r.png; sourceTree = "<group>"; };
+		6319A1AF1A7B7F5D00E21FDB /* ken6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken6.png; sourceTree = "<group>"; };
+		6319A1B01A7B7F5D00E21FDB /* ken6r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken6r.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +108,14 @@
 		6319A13C1A7B6FA100E21FDB /* TouchKen */ = {
 			isa = PBXGroup;
 			children = (
+				6319A1A41A7B7F5D00E21FDB /* TouchKen_png */,
 				6319A1411A7B6FA100E21FDB /* AppDelegate.h */,
 				6319A1421A7B6FA100E21FDB /* AppDelegate.m */,
 				6319A1441A7B6FA100E21FDB /* ViewController.h */,
 				6319A1451A7B6FA100E21FDB /* ViewController.m */,
 				6319A1471A7B6FA100E21FDB /* Main.storyboard */,
+				6319A1631A7B6FC300E21FDB /* Ken.h */,
+				6319A1641A7B6FC300E21FDB /* Ken.m */,
 				6319A14A1A7B6FA100E21FDB /* Images.xcassets */,
 				6319A14C1A7B6FA100E21FDB /* LaunchScreen.xib */,
 				6319A13D1A7B6FA100E21FDB /* Supporting Files */,
@@ -117,6 +147,25 @@
 				6319A1581A7B6FA100E21FDB /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6319A1A41A7B7F5D00E21FDB /* TouchKen_png */ = {
+			isa = PBXGroup;
+			children = (
+				6319A1A51A7B7F5D00E21FDB /* ken1.png */,
+				6319A1A61A7B7F5D00E21FDB /* ken1r.png */,
+				6319A1A71A7B7F5D00E21FDB /* ken2.png */,
+				6319A1A81A7B7F5D00E21FDB /* ken2r.png */,
+				6319A1A91A7B7F5D00E21FDB /* ken3.png */,
+				6319A1AA1A7B7F5D00E21FDB /* ken3r.png */,
+				6319A1AB1A7B7F5D00E21FDB /* ken4.png */,
+				6319A1AC1A7B7F5D00E21FDB /* ken4r.png */,
+				6319A1AD1A7B7F5D00E21FDB /* ken5.png */,
+				6319A1AE1A7B7F5D00E21FDB /* ken5r.png */,
+				6319A1AF1A7B7F5D00E21FDB /* ken6.png */,
+				6319A1B01A7B7F5D00E21FDB /* ken6r.png */,
+			);
+			path = TouchKen_png;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,8 +249,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				6319A1491A7B6FA100E21FDB /* Main.storyboard in Resources */,
+				6319A1B81A7B7F5D00E21FDB /* ken4r.png in Resources */,
+				6319A1B91A7B7F5D00E21FDB /* ken5.png in Resources */,
+				6319A1B71A7B7F5D00E21FDB /* ken4.png in Resources */,
 				6319A14E1A7B6FA100E21FDB /* LaunchScreen.xib in Resources */,
+				6319A1BB1A7B7F5D00E21FDB /* ken6.png in Resources */,
+				6319A1B41A7B7F5D00E21FDB /* ken2r.png in Resources */,
+				6319A1BC1A7B7F5D00E21FDB /* ken6r.png in Resources */,
+				6319A1B21A7B7F5D00E21FDB /* ken1r.png in Resources */,
+				6319A1BA1A7B7F5D00E21FDB /* ken5r.png in Resources */,
+				6319A1B61A7B7F5D00E21FDB /* ken3r.png in Resources */,
+				6319A1B51A7B7F5D00E21FDB /* ken3.png in Resources */,
+				6319A1B11A7B7F5D00E21FDB /* ken1.png in Resources */,
 				6319A14B1A7B6FA100E21FDB /* Images.xcassets in Resources */,
+				6319A1B31A7B7F5D00E21FDB /* ken2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +282,7 @@
 			files = (
 				6319A1461A7B6FA100E21FDB /* ViewController.m in Sources */,
 				6319A1431A7B6FA100E21FDB /* AppDelegate.m in Sources */,
+				6319A1651A7B6FC300E21FDB /* Ken.m in Sources */,
 				6319A1401A7B6FA100E21FDB /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
